@@ -4,5 +4,6 @@ public class Prueba{
 
 		System.out.println("Pérez Martínez");
 		System.out.println("19. 2005");
+		System.out.println("Arroz");
 	}	
 }
